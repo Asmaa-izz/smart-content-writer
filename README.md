@@ -36,7 +36,7 @@ It allows users to generate high-quality content (articles, product descriptions
 
 ## 📷 Screenshots
 
-> (Add your app screenshots or GIF previews here)
+![App Screenshot](public/images/Screenshot.png)
 
 ---
 
